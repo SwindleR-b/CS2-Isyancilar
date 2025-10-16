@@ -73,7 +73,7 @@ _cs2/addons/counterstrikesharp/config/plugins/SwindleR-isyancilar/SwindleR-isyan
 
 Here are some in-game screenshots of the plugin in action:
 
-                             TOP LIST
+                             <p align="center"> TOP LIST </p>
 <p align="center"> <img src="screenshots/isyanci1.png" alt="Isyancilar" width="600"/> </p>
 
                              TOP LIST RESET
