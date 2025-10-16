@@ -72,14 +72,15 @@ _cs2/addons/counterstrikesharp/config/plugins/SwindleR-isyancilar/SwindleR-isyan
 ## 📸 Screenshots
 
 Here are some in-game screenshots of the plugin in action:
+
                              TOP LIST
-<p align="center"> <img src="screenshots/isyan1.png" alt="Isyancilar" width="600"/> </p>
+<p align="center"> <img src="screenshots/isyanci1.png" alt="Isyancilar" width="600"/> </p>
 
                              TOP LIST RESET
-<p align="center"> <img src="screenshots/isyan2.png" alt="Isyancilar" width="600"/> </p>
+<p align="center"> <img src="screenshots/isyanci2.png" alt="Isyancilar" width="600"/> </p>
 
                              STATS.JSON
-<p align="center"> <img src="screenshots/isyan3.png" alt="Isyancilar" width="600"/> </p>
+<p align="center"> <img src="screenshots/isyanci3.png" alt="Isyancilar" width="600"/> </p>
 
 ---
 
