@@ -1,0 +1,10 @@
+{
+  "top_list_header": "{CHATTAG} {BLUE}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+  "top_list_title": "{CHATTAG} {YELLOW}✦ {LIME}REBELS TOP {COUNT} LIST {YELLOW}✦",
+  "top_list_separator": "{CHATTAG} {BLUE}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+  "top_list_item": "{CHATTAG} {GREEN}#{RANK} {BLUE}| {LIME}{PLAYERNAME} {BLUE}» {RED}{KILLS} {YELLOW}CT Kills",
+  "top_list_footer": "{CHATTAG} {BLUE}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+  "no_data": "{CHATTAG} {RED}✘ {YELLOW}No data available yet! {RED}✘",
+  "stats_reset": "{CHATTAG} {GREEN}✓ {LIME}Rebel statistics have been reset! {GREEN}✓",
+  "no_permission": "{CHATTAG} {RED}✘ {YELLOW}You don't have permission to use this command! {RED}✘"
+}

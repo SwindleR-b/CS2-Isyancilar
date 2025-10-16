@@ -1,0 +1,10 @@
+{
+  "top_list_header": "{CHATTAG} {BLUE}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+  "top_list_title": "{CHATTAG} {YELLOW}✦ {LIME}İSYANCILAR TOP {COUNT} LİSTESİ {YELLOW}✦",
+  "top_list_separator": "{CHATTAG} {BLUE}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+  "top_list_item": "{CHATTAG} {GREEN}#{RANK} {BLUE}| {LIME}{PLAYERNAME} {BLUE}» {RED}{KILLS} {YELLOW}CT Kill",
+  "top_list_footer": "{CHATTAG} {BLUE}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+  "no_data": "{CHATTAG} {RED}✘ {YELLOW}Henüz veri bulunmuyor! {RED}✘",
+  "stats_reset": "{CHATTAG} {GREEN}✓ {LIME}İsyancılar istatistikleri sıfırlandı! {GREEN}✓",
+  "no_permission": "{CHATTAG} {RED}✘ {YELLOW}Bu komutu kullanma yetkiniz yok! {RED}✘"
+}
